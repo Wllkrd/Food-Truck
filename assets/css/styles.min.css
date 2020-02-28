@@ -82,3 +82,8 @@
     background: #eee;
     color: inherit
 }
+
+.white>a {
+    color: #fff;
+    font-family: 'Archivo Black';
+}
